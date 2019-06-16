@@ -2,7 +2,7 @@
 
 # watt.cash
 
-To submit or propose changes to [turtlecoin.lol](https://turtlecoin.lol), submit a pull request to this repository.
+To submit or propose changes to [watt.cash](https://turtlecoin.lol), submit a pull request to this repository.
 
 
 ## Developing
