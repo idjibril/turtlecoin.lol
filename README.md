@@ -2,11 +2,6 @@
 
 # watt.cash
 
-To submit or propose changes to [watt.cash](watt.cash), submit a pull request to this repository.
-
-
-## Developing
-
 ### About
 
 This project uses [Jekyll](https://jekyllrb.com) to generate a static website.
