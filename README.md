@@ -2,7 +2,7 @@
 
 # watt.cash
 
-To submit or propose changes to [watt.cash](www.watt.cash), submit a pull request to this repository.
+To submit or propose changes to [watt.cash](watt.cash), submit a pull request to this repository.
 
 
 ## Developing
