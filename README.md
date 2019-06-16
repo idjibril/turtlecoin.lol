@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.lol.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin.lol)
 
-# turtlecoin.lol
+# watt.cash
 
 To submit or propose changes to [turtlecoin.lol](https://turtlecoin.lol), submit a pull request to this repository.
 
@@ -47,16 +47,3 @@ All translations live in the `_i18n` folder.
 * Find the right language in `_i18n`.
 * Make your change. Submit a pull request.
 * Ping the contributors of your language from below for a review.
-
-### Contributors
-
-* Afrikaans: [@jacojvv](https://github.com/jacojvv), [@Reinsie44](https://github.com/Reinsie44)
-* Chinese: [@sbc-trtl](https://github.com/sbc-trtl), `@sdyu ges`
-* Deutsch: [@encryptedunicorn](https://github.com/encryptedunicorn), [@hurrdurrnein](https://github.com/hurrdurrnein), [@armitage0](https://github.com/armitage0)
-* Español: [@euricanti](https://github.com/euricanti), [@mrrovot](https://github.com/mrrovot), [@adj-gh](https://github.com/adj-gh), [@SrWhiteRD](https://github.com/SrWhiteRD).
-* Français: [@DaliaAsTrue](https://github.com/DaliaAsTrue), [@romromna](https://github.com/romromna), [@SaintePelle](https://github.com/SaintePelle), [@andrelegault](https://github.com/andrelegault)
-* Turkish: [@Mersaultkn](https://github.com/Mersaultkn), [@alicans](https://github.com/alicans)
-* Italiano: [@andreafno](https://github.com/andreafno), [@4k4](https://github.com/4k4)
-* Portuguese: [@D4rkGh05t](https://github.com/D4rkGh05t), [@Mineirofox](https://github.com/Mineirofox)
-* Russian: [@Jihadist](https://github.com/Jihadist), [@CaptainMeatloaf](https://github.com/CaptainMeatloaf)
-* Korean: [@seocal](https://github.com/seocal)
